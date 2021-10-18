@@ -1,5 +1,5 @@
 
-b note 🧪 
+## lab note 🧪 
 
 The **Lab** is a very powerful feature 🔥that allows you to run JavaScript code directly in the preview.
 You can use the **Node fs API** as well as the pre-included libraries to **explore and visualize your data**. ✨
@@ -34,7 +34,6 @@ print(map1)
     const new_df = df.set_index({ key: "Date"  });
     new_df.plot(el).line({ columns: ["AAPL.Open", "AAPL.High"]  });
     `````
-
 
 
     Only JS code is runnable (Java below)
