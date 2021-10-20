@@ -6,12 +6,19 @@
 
 [Wikipedia](https://en.wikipedia.org/wiki/Microsoft_Windows) 
 
-#### In this repo will Try to talk about some of windows Fundamentals and basics Usages of `cmd.exe` ``` command line ``` That Will help You Step on the World Of Pentesting. Let's Start ✅
+#### In this Repository will Try to talk about some of windows Fundamentals and basics Usages of `cmd.exe` ```command line ``` That Will help You Step on the World Of Pentesting. Let's Start ✅
 
 ### Topics That Will be Covered Here :
    1. [Windows File System Navigation](https://github.com/Th3Mast3rM1nd/Windows-Basics/blob/main/Windows%20File%20System%20Navigation.md)
    2. [ Working With Files ](https://github.com/Th3Mast3rM1nd/Windows-Basics/commit/279abb694689c066a4b01f74ace827905d84033b)
    3. [System Info and Enviroment Varibales](https://github.com/Th3Mast3rM1nd/Windows-Basics/blob/main/System%20Info%20and%20Environment%20Variables.md)
    4. [Searching For Files and Text](https://github.com/Th3Mast3rM1nd/Windows-Basics/blob/main/Searching%20For%20Files%20and%20Text.md)
-   5.
+   5. [Windows Access Controls](https://github.com/Th3Mast3rM1nd/Windows-Basics/blob/main/Windows%20Access%20Controls.md)
+   6. [Users and Groups Permissions](https://github.com/Th3Mast3rM1nd/Windows-Basics/commit/19f0766fc1a14cbcd63d5e51d053cc4ee2cd7600)
+   7. [NTFS Permissions](https://github.com/Th3Mast3rM1nd/Windows-Basics/blob/main/NTFS%20Permissions.md)
+   8. [Windows Processes](https://github.com/Th3Mast3rM1nd/Windows-Basics/blob/main/Windows%20Processes.md)
+   9. [Tasks on Windows](https://github.com/Th3Mast3rM1nd/Windows-Basics/blob/main/Tasks%20on%20Windows.md)
+   10. [ADS and Disks on Windows](https://github.com/Th3Mast3rM1nd/Windows-Basics/blob/main/ADS%20and%20Disks%20on%20Windows.md)
+   11. [Registry](Registry.md)
+   12. [Libraries](https://github.com/Th3Mast3rM1nd/Windows-Basics/blob/main/Libraries.md)
    
