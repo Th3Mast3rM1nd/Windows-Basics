@@ -17,7 +17,7 @@
 
 
 ```mast3@DESKTOP-CN9CEF8 C:\Users\mast3>help | more```
-``For more information on a specific command, type HELP command-name
+For more information on a specific command, type HELP command-name
 ASSOC          Displays or modifies file extension associations.
 ATTRIB         Displays or changes file attributes.
 BREAK          Sets or clears extended CTRL+C checking.
@@ -34,5 +34,5 @@ CMD            Starts a new instance of the Windows command interpreter.
 COLOR          Sets the default console foreground and background colors.
 COMP           Compares the contents of two files or sets of files.
 COMPACT        Displays or alters the compression of files on NTFS partitions.
-CONVERT        Converts FAT volumes to NTFS.  You cannot convert the.......```
+CONVERT        Converts FAT volumes to NTFS.  You cannot convert the.......
 
