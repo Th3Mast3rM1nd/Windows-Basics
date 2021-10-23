@@ -1,0 +1,51 @@
+# NTFS Permissions 
+
+New Technology File System (NTFS) the primary file system for recent versions of Windows and Windows Server—provides a full set of features including security descriptors, encryption, disk quotas, and rich metadata, and can be used with Cluster Shared Volumes (CSV) to provide continuously available volumes that can be accessed simultaneously from multiple nodes of a failover cluster.
+
+[Check This Link for More Inforamtion about NTFS ](https://docs.microsoft.com/en-us/windows-server/storage/file-server/ntfs-overview)
+
+
+1. NTFS allows faster access to external peripherals such as a USB drive.
+2. NTFS supports larger files.
+3. NTFS provides more security features.
+4. NTFS allows faster formatting of drives.
+5. NTFS is easier to configure.
+
+``` NTFS Permissions : ```
+
+Files 
+:
+| Permission | Description 
+|------------| ------------
+| read (R)   | Read the file and excute the file if its a script 
+| Write (W)  | Write To the file but not delete the contents or the file 
+| Read & Execute (RX) | read and excute file 
+| Modify (M) | read and write and as well delete the file 
+| Full Control (F) | read , write , change , delete the file 
+
+Directories
+:
+
+| Permission | Description 
+|------------| ------------
+| read (R)   | list and view any file in the directory  
+| Write (W)  | add files or subfolders to the directory 
+| Read & Execute (RX) | allow to view and list files or subfolder in the directory and allwo excution of binaray files on the directory 
+| Modify (M) | read and write and as well delete files and subfoders within the directory 
+| Full Control (F) | read , write , change , delete 
+| List Folder Contents | Users are permitted or denied permissions to view a listing of files and subfolders 
+lay and change permissions on files and folders 
+
+```icacls  Foldername or filename ``` to display permissions
+
+screen shot 
+
+``` icacls /T foldername /grant Username:(F)``` : to grant a user a permission on a folder or file 
+```icacls /T ```: /T to set permission as well on the subfolders and files (recursively)
+
+scrren shot 
+
+```icacls filesnmae /deny Username:(F)``` : to delete a permission from a user.
+
+screnshot 
+
