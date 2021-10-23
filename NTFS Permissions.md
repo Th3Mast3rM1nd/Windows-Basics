@@ -38,14 +38,16 @@ lay and change permissions on files and folders
 
 ```icacls  Foldername or filename ``` to display permissions
 
-screen shot 
+<img width="503" alt="Screen Shot 2021-10-23 at 17 36 00" src="https://user-images.githubusercontent.com/92652606/138563093-259a21dd-fa31-425b-9ed4-78a88d3f4cd0.png">
+
 
 ``` icacls /T foldername /grant Username:(F)``` : to grant a user a permission on a folder or file 
 ```icacls /T ```: /T to set permission as well on the subfolders and files (recursively)
 
-scrren shot 
+<img width="704" alt="Screen Shot 2021-10-23 at 17 40 13" src="https://user-images.githubusercontent.com/92652606/138563102-aea51909-5195-4c48-a072-716c7134af03.png">
 
 ```icacls filesnmae /deny Username:(F)``` : to delete a permission from a user.
 
-screnshot 
+ <img width="751" alt="Screen Shot 2021-10-23 at 17 45 01" src="https://user-images.githubusercontent.com/92652606/138563107-a3376001-348c-4b97-9a8b-05e0bd3da6fb.png">
+
 
