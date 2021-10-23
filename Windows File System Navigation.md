@@ -19,6 +19,8 @@ The C:\ Directory We can Call as well the boot Directory becuase From the OS sta
 ### Lets Use The Command Line to navigate this Directories :
 ```Help``` : For more information on a specific command, type HELP command-name , when using Help without argument you will get all the command aviable .
 
+<img width="691" alt="Screen Shot 2021-10-23 at 11 24 57" src="https://user-images.githubusercontent.com/92652606/138550818-b60f557b-4933-49a3-abe1-6a1da6473994.png">
+
 
 Cd : Change Directories 
 ```mast3@DESKTOP-CN9CEF8 C:\Users\mast3>cd Desktop```
