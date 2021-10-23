@@ -1,6 +1,7 @@
 # Locating Files 
 
 ```dir /s ``` is used to locate files on the working Directory 
+
 <img width="586" alt="Screen Shot 2021-10-23 at 12 56 53" src="https://user-images.githubusercontent.com/92652606/138554473-b96ec9d4-0b50-4d65-9967-43e4aa616ed9.png">
 
 
