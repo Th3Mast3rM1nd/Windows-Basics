@@ -24,7 +24,7 @@ using ```find``` and ```|```  to search form the out of a command.
 
 <img width="674" alt="Screen Shot 2021-10-23 at 13 27 18" src="https://user-images.githubusercontent.com/92652606/138554514-eb0b7cad-bd3c-4e5b-8868-3e0397ec2ad3.png">
 
-check this link for more infoe about ```findstr``` 
+Check this link for more info about ```findstr``` 
 
 [Findstr](https://www.windows-commandline.com/findstr-command-examples-regular/)
 
