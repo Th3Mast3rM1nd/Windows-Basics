@@ -14,7 +14,7 @@
    3. [System Info and Enviroment Varibales](https://github.com/Th3Mast3rM1nd/Windows-Basics/blob/main/System%20Info%20and%20Environment%20Variables.md)
    4. [Searching For Files and Text](https://github.com/Th3Mast3rM1nd/Windows-Basics/blob/main/Searching%20For%20Files%20and%20Text.md)
    5. [Windows Access Controls](https://github.com/Th3Mast3rM1nd/Windows-Basics/blob/main/Windows%20Access%20Controls.md)
-   6. [Users and Groups Permissions](https://github.com/Th3Mast3rM1nd/Windows-Basics/commit/19f0766fc1a14cbcd63d5e51d053cc4ee2cd7600)
+   6. [Users and Groups Permissions](https://github.com/Th3Mast3rM1nd/Windows-Basics/blob/main/Users%20and%20Groups%20Permissions.md)
    7. [NTFS Permissions](https://github.com/Th3Mast3rM1nd/Windows-Basics/blob/main/NTFS%20Permissions.md)
    8. [Windows Processes](https://github.com/Th3Mast3rM1nd/Windows-Basics/blob/main/Windows%20Processes.md)
    9. [Tasks on Windows](https://github.com/Th3Mast3rM1nd/Windows-Basics/blob/main/Tasks%20on%20Windows.md)
