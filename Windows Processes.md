@@ -18,10 +18,12 @@ Here is some intersting processes
 
 ``` tasklist ``` : list all processes on the machine
 
-screen shot 
+<img width="650" alt="Screen Shot 2021-10-23 at 20 02 50" src="https://user-images.githubusercontent.com/92652606/138567287-a360776c-0995-4b75-a2e9-e521203c527e.png">
 
 ``` tasklist /FI "pid eq number" ``` : search for a processe using Pid number 
-screen shot 
+
+<img width="668" alt="Screen Shot 2021-10-23 at 20 04 53" src="https://user-images.githubusercontent.com/92652606/138567290-30aa9a63-d37e-4047-aa78-ee67f09830b1.png">
+
 
 ```/FI ```: Using filter
 :
@@ -30,22 +32,25 @@ screen shot
 3. IMAGENAME 
 4. STATUS ( RUNNING | SUSPENDED | UNKNOWN | NOT RESPONDING )
 
+<img width="706" alt="Screen Shot 2021-10-23 at 20 10 01" src="https://user-images.githubusercontent.com/92652606/138567296-7ff3f95a-2965-42f0-8f8c-1f96e8b77d29.png">
+
 Valid Operators 
 :
 1. eq ( equal) ne ( not equal) gt ( greater than ) lt ( lessthan )
 
+<img width="1368" alt="Screen Shot 2021-10-23 at 20 11 35" src="https://user-images.githubusercontent.com/92652606/138567308-184496ea-62a8-4583-84be-c1c4c213b199.png">
+
 ```/V``` : Verbose mode 
-
-
-screnn shots 
 
 We can use as well ```tasklist``` and ```find```to find a name of a Processess 
 
-screen shot 
+<img width="627" alt="Screen Shot 2021-10-23 at 20 13 19" src="https://user-images.githubusercontent.com/92652606/138567324-b0dd7237-c8a8-460e-98f6-14ce616a9afc.png">
+
 
 ```taskkill```: to kill a Proccess 
 
-scrren shot 
+ <img width="737" alt="Screen Shot 2021-10-23 at 20 15 28" src="https://user-images.githubusercontent.com/92652606/138567311-4a899b2d-9e8b-46ed-af9b-47ea927fee3b.png">
+
 
 
 
