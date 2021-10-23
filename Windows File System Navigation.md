@@ -28,12 +28,15 @@ Cd : Change Directories
 ```mast3@DESKTOP-CN9CEF8 C:\>```
 
 Dir : used to lo list the contents of the Current Directory 
+
 <img width="473" alt="Screen Shot 2021-10-23 at 11 08 54" src="https://user-images.githubusercontent.com/92652606/138550677-16626c7f-0be1-4126-83d2-4f657a45d7df.png">
 
 Dir /A : List Hidden Folders or Files 
+
 <img width="864" alt="Screen Shot 2021-10-23 at 11 11 18" src="https://user-images.githubusercontent.com/92652606/138550697-17957030-3655-4810-a074-4d26369b6e83.png">
 
 Type : to read the content of a files
+
 <img width="578" alt="Screen Shot 2021-10-23 at 11 13 50" src="https://user-images.githubusercontent.com/92652606/138550706-fa1c6182-54ab-4d43-91c9-efe31f5e2918.png">
 
 ## to display How to use each of the command above you can use /?  or Help ```command```
