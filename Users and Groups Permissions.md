@@ -41,7 +41,7 @@ Local user accounts are stored locally on the server. These accounts can be assi
 
 <img width="554" alt="Screen Shot 2021-10-23 at 16 25 47" src="https://user-images.githubusercontent.com/92652606/138560745-d6cd28fd-6d84-48f9-ac52-88c2a63dede2.png">
 
-```net accounts ``` to see or  user account Policies .
+```net accounts ``` to see or  set a user account Policies .
 
 <img width="570" alt="Screen Shot 2021-10-23 at 16 27 34" src="https://user-images.githubusercontent.com/92652606/138560748-9bd823c3-222d-4b8f-867c-6d1a2d5be62a.png">
 
