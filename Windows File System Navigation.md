@@ -23,9 +23,11 @@ The C:\ Directory We can Call as well the boot Directory becuase From the OS sta
 
 
 Cd : Change Directories 
+
 ```mast3@DESKTOP-CN9CEF8 C:\Users\mast3>cd Desktop```
 
 ## cd\ : to back to the root Directory ```C:\``` 
+
 ```mast3@DESKTOP-CN9CEF8 C:\Users\mast3>cd\```
 ```mast3@DESKTOP-CN9CEF8 C:\>```
 
