@@ -13,8 +13,8 @@ allows us to schedule computer programs or scripts to run at pre-defined times o
 ``` /tr ```: task run ( which means the program )
 
 ```/sc ``` : specifies the schedule frequency.
-                       Valid schedule types: MINUTE, HOURLY, DAILY, WEEKLY,
-                       MONTHLY, ONCE, ONSTART, ONLOGON, ONIDLE, ONEVENT.
+                       Valid schedule types: ***MINUTE, HOURLY, DAILY, WEEKLY,
+                       MONTHLY, ONCE, ONSTART, ONLOGON, ONIDLE, ONEVENT***.
 
 <img width="907" alt="Screen Shot 2021-10-23 at 20 35 05" src="https://user-images.githubusercontent.com/92652606/138567884-f9ff6c90-045e-4783-966c-e61336e985aa.png">
 
