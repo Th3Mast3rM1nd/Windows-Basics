@@ -45,5 +45,9 @@ Local user accounts are stored locally on the server. These accounts can be assi
 
 <img width="570" alt="Screen Shot 2021-10-23 at 16 27 34" src="https://user-images.githubusercontent.com/92652606/138560748-9bd823c3-222d-4b8f-867c-6d1a2d5be62a.png">
 
+```runas ```: is a command used to run a command as another User but works just if you have GUI access to the target machine like using rdp 
 
-   
+<img width="569" alt="Screen Shot 2021-10-23 at 16 50 08" src="https://user-images.githubusercontent.com/92652606/138561254-a613ccae-6ecf-4225-bb89-22fe3aed9e72.png">
+
+
+
