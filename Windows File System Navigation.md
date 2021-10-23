@@ -18,7 +18,7 @@ The C:\ Directory We can Call as well the boot Directory becuase From the OS sta
 
 ### Lets Use The Command Line to navigate this Directories :
 ```Help``` : For more information on a specific command, type HELP command-name , when using Help without argument you will get all the command aviable .
-Screen shot here 
+
 
 Cd : Change Directories 
 ```mast3@DESKTOP-CN9CEF8 C:\Users\mast3>cd Desktop```
@@ -28,14 +28,17 @@ Cd : Change Directories
 ```mast3@DESKTOP-CN9CEF8 C:\>```
 
 Dir : used to lo list the contents of the Current Directory 
-Screenshot
+<img width="473" alt="Screen Shot 2021-10-23 at 11 08 54" src="https://user-images.githubusercontent.com/92652606/138550677-16626c7f-0be1-4126-83d2-4f657a45d7df.png">
+
 Dir /A : List Hidden Folders or Files 
-Sceen shot
+<img width="864" alt="Screen Shot 2021-10-23 at 11 11 18" src="https://user-images.githubusercontent.com/92652606/138550697-17957030-3655-4810-a074-4d26369b6e83.png">
+
 Type : to read the content of a files
-screen shot 
+<img width="578" alt="Screen Shot 2021-10-23 at 11 13 50" src="https://user-images.githubusercontent.com/92652606/138550706-fa1c6182-54ab-4d43-91c9-efe31f5e2918.png">
 
 ## to display How to use each of the command above you can use /?  or Help ```command```
 
+<img width="505" alt="Screen Shot 2021-10-23 at 11 16 09" src="https://user-images.githubusercontent.com/92652606/138550703-4ba39911-8d4f-40fd-a8eb-a715e9ed2d90.png">
 
 
 
