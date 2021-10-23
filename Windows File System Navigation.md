@@ -29,6 +29,7 @@ Cd : Change Directories
 ## cd\ : to back to the root Directory ```C:\``` 
 
 ```mast3@DESKTOP-CN9CEF8 C:\Users\mast3>cd\```
+
 ```mast3@DESKTOP-CN9CEF8 C:\>```
 
 Dir : used to lo list the contents of the Current Directory 
