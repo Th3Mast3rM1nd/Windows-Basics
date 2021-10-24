@@ -82,17 +82,20 @@ The Windows registry includes the following four Run and RunOnce keys:
 
 ```reg ``` : reg is command line to interacte with registry 
 
-sccren shot 
+<img width="566" alt="Screen Shot 2021-10-24 at 12 57 34" src="https://user-images.githubusercontent.com/92652606/138591532-177a9b57-89ca-468e-89a6-500bc06dd012.png">
+
 
 ``` reg query  HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\Run ``` : to query a reg
 
-sccrenn shot 
+<img width="1090" alt="Screen Shot 2021-10-24 at 12 59 49" src="https://user-images.githubusercontent.com/92652606/138591544-f4ce5391-b9da-44cd-a013-e0decf32af20.png">
+
 
 ``` reg delete ``` : to delete a registry 
 
-sccren shot 
+<img width="949" alt="Screen Shot 2021-10-24 at 13 04 11" src="https://user-images.githubusercontent.com/92652606/138591550-2b1fb114-a542-4def-806e-3d6bb95f389d.png">
 
 ``` reg add ``` : to add a registry 
 
-scren shot 
+<img width="1430" alt="Screen Shot 2021-10-24 at 13 07 33" src="https://user-images.githubusercontent.com/92652606/138591558-0c956fc2-cb0c-4db0-ac9b-f6621cde3e75.png">
+
 
