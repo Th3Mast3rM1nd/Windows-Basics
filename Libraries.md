@@ -19,3 +19,6 @@ Let's go over a short list of common Windows DLLs and their basic functionality:
 
 There are many more DLLs that Windows runs on.
 
+Find Dlls Files using command line : 
+
+<img width="544" alt="Screen Shot 2021-10-24 at 13 27 56" src="https://user-images.githubusercontent.com/92652606/138592158-e504480b-2f1d-46ef-a096-28e690e38086.png">
